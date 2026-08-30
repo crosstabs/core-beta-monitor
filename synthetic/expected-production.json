@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "status": "pending",
+  "targetUrl": "https://www.crosstabs.com",
+  "journeyId": "core_workspace_crosstab_v1",
+  "checkId": "crosstabs-core-beta-synthetic",
+  "sourceRevision": null,
+  "deploymentId": null,
+  "contractSha256": "d546fa27e8aa3110870a6f7a34053287d4e93446228cbf9aee39a59e8853c39f"
+}
